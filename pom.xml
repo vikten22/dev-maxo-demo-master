@@ -45,8 +45,8 @@
   
   <distributionManagement>
 	<repository>
-		<id>deploymentRepo</id>
-		<name>Internal Releases</name>
+		<id>Release</id>
+		<name>maven-releases</name>
 		<url>http://35.227.23.225:8081/repository/maven-releases/</url>
 	</repository>
  
